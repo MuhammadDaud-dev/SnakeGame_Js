@@ -1,2 +1,2 @@
-# projects
-My projects (Web Development)
+# Snake Game
+Develope snake game using html css and javascritp
